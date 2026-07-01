@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0502/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說貧窮老公經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0797a.xml
+    old_id: T17n0797a
+hash: sha256:703446c069247a0ee177ee9c68d86b0629e0533223fbbe15c535bef88ea0d87c

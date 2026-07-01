@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6i0502/v1
+canonical_location: https://kanripo.org/bkk/KR6i0502/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說貧窮老公經
+  identifiers:
+    alt_id:
+    - T17n0797a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0797a.xml
+    old_id: T17n0797a
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0502_000.yaml, hash: 'sha256:703446c069247a0ee177ee9c68d86b0629e0533223fbbe15c535bef88ea0d87c'}
+  - {seq: 1, filename: KR6i0502_001.yaml, hash: 'sha256:40f121ecd645728a004265e314b4d6cba3ce69797a016b01f928f9702367555b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0502_001.markers.yaml, hash: 'sha256:28f98d6dee208d60acb8356b9d0626e2dee9c2d5ac5044e742bbcfed0317fa77'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0502_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1158
+  label: 佛說貧窮老公經
+  type: juan
+  level: 1
+hash: sha256:9d7c303e093eda2d6caf2204fe39bf2c27132121f0f195e511eb9e86da052a3e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
