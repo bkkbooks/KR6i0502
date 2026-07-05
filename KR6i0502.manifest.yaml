@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0502_000.yaml, hash: 'sha256:703446c069247a0ee177ee9c68d86b0629e0533223fbbe15c535bef88ea0d87c'}
-  - {seq: 1, filename: KR6i0502_001.yaml, hash: 'sha256:40f121ecd645728a004265e314b4d6cba3ce69797a016b01f928f9702367555b'}
+  - {seq: 1, filename: KR6i0502_001.yaml, hash: 'sha256:91dea0f2dcbb9c5f1fd644e5e18fbf91fa48e99bf1f05f1d238bf0547faca041'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0502_001.markers.yaml, hash: 'sha256:28f98d6dee208d60acb8356b9d0626e2dee9c2d5ac5044e742bbcfed0317fa77'}
+  - {seq: 0, role: markers, filename: assets/KR6i0502_000.markers.yaml, hash: 'sha256:a288658aa8d46ccc70d07f9fee7f9b37d6a4741ba324275f056ef6888563a856'}
+  - {seq: 1, role: markers, filename: assets/KR6i0502_001.markers.yaml, hash: 'sha256:fcbf89fc09abf8bc2a434e48d0a22713818c586e6cd6f4f954f034e6f896cc2d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 佛說貧窮老公經
   type: juan
   level: 1
-hash: sha256:9d7c303e093eda2d6caf2204fe39bf2c27132121f0f195e511eb9e86da052a3e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8e5658cf59e2d2cd56c54f610907fdbb933718a373a95689b13721d71a49a1a3
